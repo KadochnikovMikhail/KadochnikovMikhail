@@ -11,4 +11,4 @@
 ## Some of my Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadochnikovMikhail&layout=compact)
-![KadochnikovMikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadochnikovMikhail)
+![KadochnikovMikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadochnikovMikhail&layout=compact)
