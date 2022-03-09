@@ -1,5 +1,6 @@
 ## Всем привет 👋, меня зовут Михаил!
 [![Gmail Badge](https://img.shields.io/badge/-mihaKaDAl2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mihaKaDAl2003@gmail.com)](mailto:mihaKaDAl2003@gmail.com) 
+*[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)**
 
 *Я хочу научиться писать чистый и оптимизированный код.<br>
 *Стать асом в вебе.br>
