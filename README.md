@@ -10,5 +10,5 @@
 Мой стек: HTML5, CSS3, JavaScript ES6, ReactJS, Scss, Sass, Node.js, Git</p><p align='left'> Вы можете просмотреть мое резюме <a href='https://ekaterinburg.hh.ru/resume/bf92e40fff09bbdad80039ed1f70656e4a634d?disableBrowserCache=true&hhtmFrom=resume_list&print=true ' target=_blank><u>здесь</u>.</a></p>
 ## Some of my Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadochnikovMikhail)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadochnikovMikhail&layout=compact)
 ![KadochnikovMikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadochnikovMikhail)
