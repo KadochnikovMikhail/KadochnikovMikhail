@@ -3,10 +3,10 @@
 
 <ul>
   <li>Я хочу научиться писать чистый и оптимизированный код.<br></li>
-*Стать асом в вебе.<br>
-*Хочу развивать свои навыки в WebDev в хорошей команде.<br>
-*Освоить  крутые и полезные фичи.<br>
-*Стремлюсь наработать множество новых навыков.<br>
+  <li>Стать асом в вебе.<br></li>
+  <li>Хочу развивать свои навыки в WebDev в хорошей команде.<br></li>
+  <li>Освоить  крутые и полезные фичи.<br></li>
+  <li>Стремлюсь наработать множество новых навыков.<br></li>
 </ul>  
 
 Мой стек: HTML5, CSS3, JavaScript ES6, ReactJS, Scss, Sass, Node.js, Git</p><p align='left'> Вы можете просмотреть мое резюме <a href='https://ekaterinburg.hh.ru/resume/bf92e40fff09bbdad80039ed1f70656e4a634d?disableBrowserCache=true&hhtmFrom=resume_list&print=true ' target=_blank><u>здесь</u>.</a></p>
