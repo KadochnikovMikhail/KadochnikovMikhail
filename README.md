@@ -1,5 +1,6 @@
 ## Hey 👋, This is Михаил
-[![Gmail Badge](https://img.shields.io/badge/-mihaKaDAl2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mihaKaDAl2003@gmail.com)](mailto:mihaKaDAl2003@gmail.com) [![Github Badge](https://img.shields.io/badge/-Kadochnikov Mikhail-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Kadochnikov Mikhail/)](https://www.github.com/Kadochnikov Mikhail/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/KadochnikovMikhail/)](https://github.com/KadochnikovMikhail/) <p align='left'>Я хочу научиться писать чистый и оптимизированный код
+[![Gmail Badge](https://img.shields.io/badge/-mihaKaDAl2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mihaKaDAl2003@gmail.com)](mailto:mihaKaDAl2003@gmail.com) 
+*Я хочу научиться писать чистый и оптимизированный код
 *Стать асом в вебе
 *Хочу развивать свои навыки в WebDev в хорошей команде
 *Освоить  крутые и полезные фичи
