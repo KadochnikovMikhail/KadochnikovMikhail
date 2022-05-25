@@ -1,4 +1,6 @@
 ## Всем привет 👋, меня зовут Михаил!
+![](https://komarev.com/ghpvc/?username=KadochnikovMikhail)
+
 [![Gmail Badge](https://img.shields.io/badge/-mihaKaDAl2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mihaKaDAl2003@gmail.com)](mailto:mihaKaDAl2003@gmail.com) 
 
 <ul>
