@@ -1,7 +1,7 @@
 ## Всем привет 👋, меня зовут Михаил!
 ![](https://komarev.com/ghpvc/?username=KadochnikovMikhail)
 
-[![Gmail Badge](https://img.shields.io/badge/-mihaKaDAl2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mihaKaDAl2003@gmail.com)](mailto:mihaKaDAl2003@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-divine.ekb.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:divine.ekb.dev@gmail.com)](mailto:divine.ekb.dev@gmail.com) 
 
 <ul>
   <li>Я хочу научиться писать чистый и оптимизированный код.<br></li>
