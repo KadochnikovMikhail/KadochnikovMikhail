@@ -11,7 +11,7 @@
 </ul>  
 
 ### Мой стек: 
-HTML5, CSS3, JavaScript, ReactJS, Vue.js, Scss, Sass, TS, express.js, fasify, Node.js, Git</p><p align='left'> Вы можете просмотреть мое резюме <a href='https://drive.google.com/file/d/1XuK-8f3bcY4Zdbk3ZTZdKmrBEs1CBAPT/view?usp=sharing' target=_blank><u>здесь</u>.</a></p>
+HTML5, CSS3, JavaScript, ReactJS, Vue.js, Scss, Sass, TS, express.js, fasify, Node.js, Git</p><p align='left'>
 ## Немного моей статистики GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadochnikovMikhail&show_icons=true)
